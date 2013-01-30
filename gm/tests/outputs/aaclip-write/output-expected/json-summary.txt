@@ -1,0 +1,13 @@
+{
+   "actual-results" : {
+      "failed" : null,
+      "failure-ignored" : null,
+      "no-comparison" : {
+         "simpleaaclip_path_8888" : {
+            "checksum" : FAKE
+         }
+      },
+      "succeeded" : null
+   },
+   "expected-results" : null
+}

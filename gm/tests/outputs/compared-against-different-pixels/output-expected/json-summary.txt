@@ -1,0 +1,18 @@
+{
+   "actual-results" : {
+      "failed" : {
+         "8888/dashing2" : {
+            "checksum" : FAKE
+         }
+      },
+      "failure-ignored" : null,
+      "no-comparison" : null,
+      "succeeded" : null
+   },
+   "expected-results" : {
+      "8888/dashing2" : {
+         "checksums" : [ FAKE ],
+         "ignore-failure" : false
+      }
+   }
+}

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xml", "xml.vcproj", "{52ECD6CB-E4D0-ED61-733F-4AE8B2699870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_Developer|Win32 = Release_Developer|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52ECD6CB-E4D0-ED61-733F-4AE8B2699870}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52ECD6CB-E4D0-ED61-733F-4AE8B2699870}.Debug|Win32.Build.0 = Debug|Win32
+		{52ECD6CB-E4D0-ED61-733F-4AE8B2699870}.Release_Developer|Win32.ActiveCfg = Release_Developer|Win32
+		{52ECD6CB-E4D0-ED61-733F-4AE8B2699870}.Release_Developer|Win32.Build.0 = Release_Developer|Win32
+		{52ECD6CB-E4D0-ED61-733F-4AE8B2699870}.Release|Win32.ActiveCfg = Release|Win32
+		{52ECD6CB-E4D0-ED61-733F-4AE8B2699870}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
